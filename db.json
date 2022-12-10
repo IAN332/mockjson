@@ -1,11 +1,12 @@
 {
-  "users":{
-    "masaba":{
-      "id":1
-      "age":"15"
-    },
-    "kevin":{
-      "id":1
-      "age":"15"
+    "users":{
+      "masaba":{
+        "id":1,
+        "age":"15"
+      },
+      "kevin":{
+        "id":1,
+        "age":"15"
+      }
     }
 }
